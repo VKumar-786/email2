@@ -1,0 +1,1 @@
+export default function Footer() { return <footer><p>© 2025 Quantum Mail</p></footer>; }
